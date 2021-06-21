@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T06:22:51.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" version="14.8.0" etag="Wa_zxfHECqCzWR0CK-yD" type="github"><diagram id="ktY6dXJ6uu-nDx0OoOsR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-21T07:44:12.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="_iHt4bDuCh6wVV31lYAw" version="14.8.0" type="github">
+  <diagram id="ktY6dXJ6uu-nDx0OoOsR" name="第 1 页">
+    <mxGraphModel dx="1310" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d9bi4vugDyZ4TZozMedC-1" value="爆品预测算法" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="550" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-6" value="影响因子归因" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="380" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-3" value="基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-4" value="指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-5" value="事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-7" value="类目集中度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-8" value="新品/老品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-9" value="类目运营能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-11" value="点击率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-12" value="转化率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-13" value="排名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-14" value="sku售罄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-15" value="商品下架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-16" value="营销活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-17" value="算法应用" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-18" value="打爆正向性预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-19" value="打爆品预筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-20" value="影响因子排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-21" value="增长曲线仿真" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d9bi4vugDyZ4TZozMedC-24" value="前置筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
